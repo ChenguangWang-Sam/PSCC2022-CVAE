@@ -8,4 +8,4 @@
 
 # Note
 - We use Fig. 4. (a), (e) and (i) as examples for Kolmogorov-Smirnov test, Autoencoder-based test, Energy test, respectively.
-- Readers can change the inputs of these tests to do the rest analysis in Fig. 4.
+- The inputs of these tests can be changed to do the rest analysis in Fig. 4.
