@@ -1,4 +1,6 @@
-# Explanation of filenames for the generative models
+# Generative models
+* Generating multivariate load states using a (conditional) variational autoencoder
+## Explanation of filenames
 * CVAE: Conditional variational autoencoder.
 * VAE: Variational autoencoder.
 * Auto σ': Generating load states using (conditional) variational autoencoder with output noise parameter co-optimised.
