@@ -1,4 +1,4 @@
-# Explanation for the names of the generated files
+# Explanation for the names of the generated data
 - filename with "σ'_auto": output noise parameter is co-optimised during training (Auto σ')
 - filename with "σ'_"+ a "number": output noise parameter is  fixed (Manually set σ')
 
