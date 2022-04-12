@@ -1,6 +1,6 @@
 # Explanation for the names of the generated files
-- filename with "σ_auto": output noise parameter is co-optimised during training (Auto σ')
-- filename with "σ_"+ a "number": output noise parameter is  fixed (Manually set σ')
+- filename with "σ'_auto": output noise parameter is co-optimised during training (Auto σ')
+- filename with "σ'_"+ a "number": output noise parameter is  fixed (Manually set σ')
 
 - filename with "mu": generated data without noise (noise free)
 - filename with "noisy": generated data with noise (noisy)
