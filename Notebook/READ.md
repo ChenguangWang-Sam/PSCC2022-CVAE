@@ -1,5 +1,5 @@
 # Generative models
-* Generating multivariate load states using a (conditional) variational autoencoder
+* These are generative models used for generating multivariate load states.
 ## Explanation of filenames
 * CVAE: Conditional variational autoencoder.
 * VAE: Variational autoencoder.
