@@ -1,4 +1,4 @@
-# Explanation for the names of the generated data
+# Explanation for the names of the generated load data
 - filename with "σ'_auto": output noise parameter is co-optimised during training (Auto σ')
 - filename with "σ'_"+ a "number": output noise parameter is  fixed (Manually set σ')
 
@@ -11,8 +11,8 @@
 - filename with "nor": generated data that are not rescaled to the original scale of historical data
 - filename without "nor": generated data that are rescaled to the original scale of historical data
 
-- filename with a β number: data generated with that specific β number
-- filename without a β number: the number of β is 1 by default
+- filename with a <i>β</i> number: data generated with that specific <i>β</i> number
+- filename without a <i>β</i> number: the number of <i>β</i> is 1 by default
 
 - filename with "VAE" specified: it is a VAE model
 - filename without "VAE" specified: it is a CVAE model by default
