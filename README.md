@@ -1,4 +1,4 @@
-# Project: Generating multivariate load states using a (conditional) variational autoencoder
+# Generating multivariate load states using a (conditional) variational autoencoder
 
 * This code accompanies the paper <i>Generating Multivariate Load States Using a Conditional Variational Autoencoder</i>, to appear in PSCC2022 – Power Systems Computation Conference.
 
@@ -17,5 +17,3 @@ A preprint is available, and you can check this paper for more details  [Link of
 * Paper authors: Chenguang Wang, Ensieh Sharifnia, Zhi Gao, Simon H. Tindemans, Peter Palensky
 * Accepted for publication at PSCC 2022 and a special issue of EPSR
 * If you use (parts of) this code, please cite the preprint or published paper
-
-
