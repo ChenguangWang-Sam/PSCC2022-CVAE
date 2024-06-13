@@ -10,10 +10,10 @@
 * Folder "doc" -- Uesful documents for this project.
 
 # Dependencies
-This code requires installation of the following libraries: ```pandas 1.1.4```, ```numpy 1.20.1```, ```matplotlib 3.3.4```, ```seaborn 0.11.1```, ```scipy 1.6.2```, ```tensorflow 2.7.0```, ```torch 1.9.0```, ```math```, and ```torch_two_sample```. About ```torch_two_sample```, you can find more information [at this page](https://arxiv.org/abs/2110.11435).
+This code requires installation of the following libraries: ```pandas 1.1.4```, ```numpy 1.20.1```, ```matplotlib 3.3.4```, ```seaborn 0.11.1```, ```scipy 1.6.2```, ```tensorflow 2.7.0```, ```torch 1.9.0```, ```math```, and ```torch_two_sample```. About ```torch_two_sample```, you can find more information   [Link of the paper](https://github.com/josipd/torch-two-sample/blob/master/docs/index.rst#id11).
 
 # Recommended citation
-A preprint is available, and you can check this paper for more details  [Link of the paper](https://github.com/josipd/torch-two-sample/blob/master/docs/index.rst#id11).
+A preprint is available, and you can check this paper for more details   [at this page](https://arxiv.org/abs/2110.11435).
 * Paper authors: Chenguang Wang, Ensieh Sharifnia, Zhi Gao, Simon H. Tindemans, Peter Palensky
 * Accepted for publication at PSCC 2022 and a special issue of EPSR
 * If you use (parts of) this code, please cite the preprint or published paper
